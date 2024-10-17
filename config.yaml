@@ -1,0 +1,7 @@
+# config.yaml
+
+printer:
+  usb_device:
+    vendor_id: 0x04b8 # Пример для Epson
+    product_id: 0x0202
+  reset_command: "COMMAND_TO_RESET_WASTE_INK"
